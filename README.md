@@ -35,6 +35,9 @@ $ bundle
 
 Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
 
+## Local Development
+`bundle exec jekyll serve --live-reload` in a terminal
+
 ## License
 
 This work is published under [MIT][mit] License.
